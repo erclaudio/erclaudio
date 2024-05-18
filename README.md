@@ -1,10 +1,11 @@
+**`Full-Stack and AI systems developer`**   
 <table>
     <tr>
         <td>     
 <h1>🏄‍♂️ Claudio Andrei 👋</h1>
         </td>
     </tr>   
-**`Full-Stack and AI systems developer`**    
+ 
     <tr>
         <td>
 
