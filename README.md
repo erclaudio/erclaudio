@@ -8,11 +8,11 @@
 - 👯 I’m looking to collaborate with others enthusiasts or firms
 - 🥅 2024 Goals: Land my dream tech role
 - ⚡ Fun fact: I love to climb indoors and lift weights, I also like anime
-- 😻 Check out my academic paper for emotion recognition: [GitHub](https://github.com/erclaudio/MSc-Thesis/blob/main/Thesis.pdf)
+- 😻 Check out my academic paper on facial emotion recognition: [GitHub](https://github.com/erclaudio/MSc-Thesis/blob/main/Thesis.pdf)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudiooo.a)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
