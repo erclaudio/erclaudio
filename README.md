@@ -3,7 +3,7 @@
 **`Full-Stack and AI systems developer`**
 ## I'm a passionate tech graduate, who likes to build web applications and experiment with AI!!
 
-- 🔭 Check out my Linked in profile: [https://www.linkedin.com/in/claudio-andrei/]!
+- 🔭 Check out my Linked in [profile]: (https://www.linkedin.com/in/claudio-andrei/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
