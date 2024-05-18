@@ -1,4 +1,4 @@
-<table>**`Full-Stack and AI systems developer`**</table>
+
 <table>
     <tr>
         <td>     
@@ -8,7 +8,7 @@
  
     <tr>
         <td>
-
+**`Full-Stack and AI systems developer`**
 ## I'm a passionate tech graduate, who likes to build web applications and experiment with AI!!
 
 - 🔭 Check out my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/claudio-andrei/)!
