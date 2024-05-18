@@ -3,15 +3,9 @@
 **`Full-Stack and AI systems developer`**
 
 
-<table>
-    <tr>
-        <td>     
-<h1>🏄‍♂️ Claudio Andrei 👋</h1>
-        </td>
-    </tr>   
+<table>  
  
     
-**`Full-Stack and AI systems developer`**
 ## I'm a passionate tech graduate, I like to build web applications and experiment with AI!!
 
 - 🔭 Check out my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/claudio-andrei/)!
