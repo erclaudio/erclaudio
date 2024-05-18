@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudiooo.a)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/erClaudio)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
