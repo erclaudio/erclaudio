@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate with others enthusiasts or firms
 - 🥅 2024 Goals: Land my dream tech role
 - ⚡ Fun fact: I love to climb indoors and lift weights, I also like anime
+- 📫 Reach me at: [(mailto:claudo.andrei@icloud.com)]
 - 😻 Check out my academic paper on facial emotion recognition: [GitHub](https://github.com/erclaudio/MSc-Thesis/blob/main/Thesis.pdf)
 
 ### Connect with me:
