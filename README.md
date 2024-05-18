@@ -1,6 +1,6 @@
 <table>
     <tr>
-      
+        <td>     
 # 🏄‍♂️ Claudio Andrei 👋
 
 **`Full-Stack and AI systems developer`**
@@ -13,7 +13,10 @@
 - ⚡ Fun fact: I love to climb indoors and lift weights, I also like anime
 - 📫 Reach me at: [claudio.andrei@icloud.com](mailto:claudo.andrei@icloud.com)
 - 😻 Check out my academic paper on facial emotion recognition: [GitHub](https://github.com/erclaudio/MSc-Thesis/blob/main/Thesis.pdf)
-
+        </td>
+    </tr>
+    <tr>
+        <td>
 ### Connect with me:
 
 [![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudiooo.a)
@@ -23,7 +26,8 @@
 [![website](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/441299001539690496)
 [![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-andrei/)
 [![website](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11169294105?si=e299ded8e74549c4)
-
+    </tr>
+        </td>
 ### Languages and Tools:
 
 | <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> | <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> |
