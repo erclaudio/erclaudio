@@ -20,7 +20,7 @@
 [![website](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheClaudio2000)
 [![website](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/441299001539690496)
 [![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-andrei/)
-
+[![website]()](https://open.spotify.com/user/11169294105?si=e299ded8e74549c4)
 
 ### Languages and Tools:
 
