@@ -50,11 +50,10 @@
 <!--END_SECTION:activity-->
 
 </details>
-![Top Langs](https:///github-readme-stats-khaki-omega-79.vercel.app/api/api/top-langs/?username=erclaudio&hide=javascript,html)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-khaki-omega-79.vercel.app/api?username=erclaudio&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  ![Top Langs](https:///github-readme-stats-khaki-omega-79.vercel.app/api/api/top-langs/?username=anuraghazra&hide=javascript,html)
 </details>
     </tr>
+    ![pv](https://pageview.vercel.app/?github_user=erclaudio)
