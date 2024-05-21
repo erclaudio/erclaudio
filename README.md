@@ -50,7 +50,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
+![Top Langs](https:///github-readme-stats-khaki-omega-79.vercel.app/api/api/top-langs/?username=anuraghazra&hide=javascript,html)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
