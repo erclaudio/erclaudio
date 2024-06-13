@@ -34,7 +34,7 @@
         <td>
 <h3> Languages and Tools:</h3>
 
-<table style="background-color: black;>
+<table>
   <tr>
     <td style="background-color: white;">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
