@@ -31,7 +31,7 @@
     </tr>
         </td>
     <tr>
-        <td>
+        <td style="background-color: black;">
 <h3> Languages and Tools:</h3>
 
 <table>
