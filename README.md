@@ -2,20 +2,23 @@
 
 **`Full-Stack and AI systems developer`**
 
-<table>  
-<tr>
-<td>
 
+<table>  
+ 
+    
 ## I'm a passionate tech graduate, I like to build web applications and experiment with AI!!
 
 - 🔭 Check out my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/claudio-andrei/)!
 - 🌱 I’m currently learning/reading: [Applying Statistical Learning to Deep Learning](https://github.com/erclaudio/Resources/blob/main/pdfs/Applying_statistical_learning_theory_to_deep_learning_1701489670.pdf) & [Data Science](https://github.com/erclaudio/Resources/blob/main/pdfs/Python_Data_Science_Handbook_Essential_Tools_for_Working_with_Data.pdf)
-- 👯 I’m looking to collaborate with other enthusiasts or firms
+- 👯 I’m looking to collaborate with others enthusiasts or firms
 - 🥅 2024 Goals: Land my dream tech role
 - ⚡ Fun fact: I love to climb indoors and lift weights, I also like anime
 - 📫 Reach me at: [claudio.andrei@icloud.com](mailto:claudo.andrei@icloud.com)
 - 📖 Check out my academic paper on facial emotion recognition: [GitHub](https://github.com/erclaudio/MSc-Thesis/blob/main/Thesis.pdf)
-
+        </td>
+    </tr>
+    <tr>
+        <td>
 <h3> Connect with me:</h3>
 
 [![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudiooo.a)
@@ -25,10 +28,13 @@
 [![website](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/441299001539690496)
 [![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-andrei/)
 [![website](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11169294105?si=e299ded8e74549c4)
-
+    </tr>
+        </td>
+    <tr>
+        <td style="background-color: black;">
 <h3> Languages and Tools:</h3>
 
-<table style="background-color: #e0f7fa;">
+<table>
   <tr>
     <td style="background-color: white;">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -166,6 +172,9 @@
   </tr>
 </table>
 
+
+
+     
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -178,6 +187,6 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-khaki-omega-79.vercel.app/api?username=erclaudio&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=stars,issues" />
 </details>
-</td>
-</tr>
-</table>
+    </tr>
+    </td>
+   
