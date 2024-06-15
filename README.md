@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td>
-<h3> Connect with me:</h3>
+<h3>Connect with me:</h3>
 
 [![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudiooo.a)
 [![website](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/erClaudio)
