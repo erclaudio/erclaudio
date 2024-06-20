@@ -3,7 +3,7 @@
 **`Full-Stack and AI systems developer`**
 
 
-<table>  
+<table>
  
     
 ## I'm a passionate tech graduate, I like to build web applications and experiment with AI!!
@@ -99,7 +99,7 @@
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
       </a>
-    </td>
+     </td>
     <td style="background-color: white;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
