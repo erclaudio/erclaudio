@@ -11,7 +11,7 @@
 - 🔭 Check out my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/claudio-andrei/)!
 - 🌱 I’m currently learning/reading: [Applying Statistical Learning to Deep Learning](https://github.com/erclaudio/Resources/blob/main/pdfs/Applying_statistical_learning_theory_to_deep_learning_1701489670.pdf) & [Data Science](https://github.com/erclaudio/Resources/blob/main/pdfs/Python_Data_Science_Handbook_Essential_Tools_for_Working_with_Data.pdf)
 - 👯 I’m looking to collaborate with others enthusiasts or firms
-- 🥅 2025 Goals: upgrade my dev skills 
+- 🥅 2026 Goals: upgrade my dev skills 
 - ⚡ Fun fact: I love to climb indoors and lift weights, I also like tennis
 - 📫 Reach me at: [claudio.andrei@icloud.com](mailto:claudo.andrei@icloud.com)
 - 📖 Check out my paper on facial emotion recognition: [GitHub](https://github.com/erclaudio/MSc-Thesis/blob/main/Thesis.pdf)
